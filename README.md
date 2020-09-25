@@ -15,3 +15,4 @@ This repository contains <b>efficient HackerRank solutions</b> of hackerrank cha
 | [Symmetric Difference](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)|[SymmetricDifference.py](https://github.com/Shreesh-T/10-Days-of-HackerRank/blob/master/Python-Language-Proficiency/SymmetricDifference.py)|
 |[The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)|[TheCaptainsRoom.py](https://github.com/Shreesh-T/10-Days-of-HackerRank/blob/master/Python-Language-Proficiency/TheCaptainsRoom.py)|
 |[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|[NoIdea.py](https://github.com/Shreesh-T/10-Days-of-HackerRank/blob/master/Python-Language-Proficiency/NoIdea.py)|
+|[Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)|[DoorMat.py](https://github.com/Shreesh-T/10-Days-of-HackerRank/blob/master/Python-Language-Proficiency/DoorMat.py)|

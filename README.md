@@ -16,3 +16,6 @@ This repository contains <b>efficient HackerRank solutions</b> of hackerrank cha
 |[The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)|[TheCaptainsRoom.py](https://github.com/Shreesh-T/10-Days-of-HackerRank/blob/master/Python-Language-Proficiency/TheCaptainsRoom.py)|
 |[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|[NoIdea.py](https://github.com/Shreesh-T/10-Days-of-HackerRank/blob/master/Python-Language-Proficiency/NoIdea.py)|
 |[Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)|[DoorMat.py](https://github.com/Shreesh-T/10-Days-of-HackerRank/blob/master/Python-Language-Proficiency/DoorMat.py)|
+|[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)| [CheckStrictSuperSet.py](https://github.com/Shreesh-T/10-Days-of-HackerRank/blob/master/Python-Language-Proficiency/Check.SuperSet.py)|
+|[Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem)|[TriangleQuest.py](https://github.com/Shreesh-T/10-Days-of-HackerRank/blob/master/Python-Language-Proficiency/TriangleQuest.py)|
+|[ginortS](https://www.hackerrank.com/challenges/ginorts/problem)|[ginortS.py](https://github.com/Shreesh-T/10-Days-of-HackerRank/blob/master/Python-Language-Proficiency/ginortS.py)|
